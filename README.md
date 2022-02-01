@@ -13,6 +13,6 @@ I am a developer with a Bacholors in Computer Science and am currently pursuing 
 * Android Studios
 * Tailwind
 ## Contact
-Email - frasergrandfield110@gmail.com
+Email - frasergrandfield110@gmail.com\
 LinkedIn - https://www.linkedin.com/in/frasergrandfield/
 
