@@ -12,6 +12,8 @@ I am a developer with a Bacholors in Computer Science and am currently pursuing 
 * Kotlin
 * Android Studios
 * Tailwind
+* Vue
+* React
 ## Contact
 Email - frasergrandfield110@gmail.com\
 LinkedIn - https://www.linkedin.com/in/frasergrandfield/
