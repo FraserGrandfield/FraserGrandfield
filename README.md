@@ -1,16 +1,18 @@
-### Hi there 👋
+I am a developer with a Bacholors in Computer Science and am currently pursuing a masters in Cyber Security. I specificly enjoy developing back-ends and penetration testing web applications. A hobby of mine is learning about cosmoligy and quantum phyisics which also has led into my interest into quantum computers.
+## Skills
+* Java
+* Pyhton
+* C#
+* C++
+* Javascript
+* PHP
+* SQL
+* Firebase
+* MySQL
+* Kotlin
+* Android Studios
+* Tailwind
+## Contact
+Email - frasergrandfield110@gmail.com
+LinkedIn - https://www.linkedin.com/in/frasergrandfield/
 
-<!--
-**FraserGrandfield/FraserGrandfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
